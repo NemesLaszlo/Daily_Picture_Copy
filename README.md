@@ -1,7 +1,7 @@
 # Daily_Picture_Copy
 Copy picture from a month's folder structure to a destination folder.
 
-Configurate if from the App.config file.
+Configure it from the App.config file!
 
 # Folder Structire
 
